@@ -1,2 +1,2 @@
-# champagne1011.github.io
-personal technology note
+# Champagne的个人技术博客
+今天是2025年08月06日，开帖记录一下！！
